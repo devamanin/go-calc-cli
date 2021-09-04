@@ -1,4 +1,4 @@
-# gol-calc-cli
+# go-calc-cli
 
 ## sample code
 
